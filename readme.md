@@ -9,5 +9,8 @@ Bis 26.09.2023
 Zahlen erraten: Ein programm erstellen, das den Benutzer eine Zahl zwischen 1 und 100 erraten lässt. Das Programm gibt Hinweise, ob die geratene Zahl zu hoch oder zu niedrig ist.
 
 ## Arbeitspakete für 29.08.2023
-- [ x] Recherchieren wie man so ein Projekt anfängt
-- [ ] Mit dem Projekt anfangen
+- [ x ] Recherchieren wie man so ein Projekt anfängt
+[ x ] Mit dem Projekt anfangen
+
+## Reflexion
+
