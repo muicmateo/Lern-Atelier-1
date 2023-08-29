@@ -11,5 +11,5 @@ Zahlen erraten: Ein programm erstellen, das den Benutzer eine Zahl zwischen 1 un
 ## Arbeitspakete für 29.08.2023
 - [ ] Recherchieren wie man so ein Projekt anfängt
 - [ ] Mit dem Projekt anfangen
-- [ ] UI machen
+
 
