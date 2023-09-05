@@ -17,6 +17,14 @@ Ich habe beide Arbeitspakete erledigt aber nicht wie ich dachte. Ich wollte mit 
 
 ## Arbeitspakete für 05.09.2023
 
-- [ ] Code weiter studieren
+- [x] Code weiter studieren
 - [ ] etwas eigenes hinzufügen
-- [ ] evtl. selber von neu anfangen
+- [x] evtl. selber von neu anfangen
+
+## Reflexion
+Ich wollte heute nur den Code von GPT studieren und etwas probieren hinzufügen, aber ich habe etwas viel besseres gemacht. Ich habe den Programm selber geschrieben mit eigenem Code. Natürlich habe ich ab und zu 
+den Code von GPT angeschaut um zu schauen welcher Schritt als nächstes kommt. Aber den Code habe ich nicht kopiert.
+
+## Arbeitspakete für 12.09.2023
+
+- [ ] Versuche ins Code hinzufügen
