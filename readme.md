@@ -27,4 +27,7 @@ den Code von GPT angeschaut um zu schauen welcher Schritt als nächstes kommt. A
 
 ## Arbeitspakete für 12.09.2023
 
-- [ ] Versuche ins Code hinzufügen
+- [ ] Code ergänzen sodass man die Versuche sieht.
+- [ ] Einen Highscore hinzufügen
+- [ ] Play again taste hinzufügen
+
