@@ -23,11 +23,19 @@ Ich habe beide Arbeitspakete erledigt aber nicht wie ich dachte. Ich wollte mit 
 
 ## Reflexion
 Ich wollte heute nur den Code von GPT studieren und etwas probieren hinzufügen, aber ich habe etwas viel besseres gemacht. Ich habe den Programm selber geschrieben mit eigenem Code. Natürlich habe ich ab und zu 
-den Code von GPT angeschaut um zu schauen welcher Schritt als nächstes kommt. Aber den Code habe ich nicht kopiert.
+den Code von GPT angeschaut um zu schauen welcher Schritt als nächstes kommt. Aber den Code habe ich nicht kopiert. (55 Wörter)
 
 ## Arbeitspakete für 12.09.2023
 
-- [ ] Code ergänzen sodass man die Versuche sieht.
+- [x] Code ergänzen sodass man die Versuche sieht.
+- [x] Play again taste hinzufügen
 - [ ] Einen Highscore hinzufügen
-- [ ] Play again taste hinzufügen
 
+## Reflexion 
+Heute habe ich die Versuche hinzugefügt und das ging ohne Probleme. Es war ziemlich einfach. Mit Play again hatte ich ziemlich viel mühe, aber schlussendlich habe ich es mit bool Datentyp geschafft. Ich wollte noch einen Highscore hinzufügen aber dann nach etwas recherchieren habe ich gemerkt das es zu kompliziert ist. Vielleicht später mal werde ich einen Highscore hinzufügen. In der verbleibenden Zeit habe ich im Modul 431 gearbeitet, weil ich ziemlich weit hinten bin in diesem Modul. (78 Wörter)
+
+## Arbeitspakete für 19.09.2023
+
+- [ ] Schwierigkeitsstufen hinzufügen z.B easy (0-50) medium (0-100) hard (0-200)
+- [ ] Begrenzte Versuche hinzufügen auch mit difficulty setting
+- [ ] Zeitlimit: innerhalb dessen der Spieler die richtige Zahl erraten muss
