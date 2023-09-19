@@ -36,6 +36,6 @@ Heute habe ich die Versuche hinzugefügt und das ging ohne Probleme. Es war ziem
 
 ## Arbeitspakete für 19.09.2023
 
-- [ ] Schwierigkeitsstufen hinzufügen z.B easy (0-50) medium (0-100) hard (0-200)
-- [ ] Begrenzte Versuche hinzufügen auch mit difficulty setting
+- [x] Schwierigkeitsstufen hinzufügen z.B easy (0-50) medium (0-100) hard (0-200)
+- [x] Begrenzte Versuche hinzufügen auch mit difficulty setting
 - [ ] Zeitlimit: innerhalb dessen der Spieler die richtige Zahl erraten muss
