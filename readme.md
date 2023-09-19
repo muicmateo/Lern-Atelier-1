@@ -38,4 +38,12 @@ Heute habe ich die Versuche hinzugefügt und das ging ohne Probleme. Es war ziem
 
 - [x] Schwierigkeitsstufen hinzufügen z.B easy (0-50) medium (0-100) hard (0-200)
 - [x] Begrenzte Versuche hinzufügen auch mit difficulty setting
-- [ ] Zeitlimit: innerhalb dessen der Spieler die richtige Zahl erraten muss
+- [x] Zeitlimit: innerhalb dessen der Spieler die richtige Zahl erraten muss
+
+## Reflexion
+Heute habe ich als erstes die Schwierigkeitsstufen hinzugefügt. Mit dem hatte ich etwas mühe, weil ich wusste nicht wie ich das in meinen Code implementieren sollte. Aber nach ein wenig recherche habe ich es geschafft. Dann habe ich die Schwierigkeitsstufen ergänzt, sodass man begrenzte Zahl von Versuchen hat. Das war ziemlich einfach zu programmieren. Mit den Zeitlimit wusste ich gar nicht wie ich anfangen sollte. Also habe ich ChatGPT gefragt und habe dann diesen Code ins Visual Studio kopiert. Ich musste einen vat Datentyp benutzen und diesen hatten wir noch nicht. (91 Wörter)
+
+## Arbeitspakete für 26.09.2023
+- [ ] Farbe von Text ändern z.B Versuche sind rot, Zeitlimit gelb, Zahlen grün usw.
+- [ ] Mit Windows Forms einen UI machen, in welchen man knöpfe drücken muss und nicht in Console schreiben muss.
+- [ ] Im Modul 413 weiter arbeiten an 1720 und 1721
