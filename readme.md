@@ -46,4 +46,11 @@ Heute habe ich als erstes die Schwierigkeitsstufen hinzugefügt. Mit dem hatte i
 ## Arbeitspakete für 26.09.2023
 - [x] Farbe von Text ändern z.B Versuche sind rot, Zeitlimit gelb, Zahlen grün usw.
 - [ ] Mit Windows Forms einen UI machen, in welchen man knöpfe drücken muss und nicht in Console schreiben muss.
-- [ ] Im Modul 413 weiter arbeiten an 1720 und 1721
+- [x] Im Modul 413 weiter arbeiten an 1720 und 1721
+
+## Reflexion
+Heute habe ich ein bisschen weiter an dem Projekt gearbeitet. Nämlich habe ich nur bei einigen stellen im Code die Farbe geändert. Zum Beispiel (easy/normal/hard). Ich wollte eine Windows Form App machen aber habe mich entschieden es nicht zu machen, weil es der letzte Tag ist und um das zu machen, muss ich den ganzen Code neu schreiben. Diese Zeit habe ich mir dann genommen, um mehr im Modul 431 zu arbeiten. Ich habe die Aufgabe 1720 gelöst und 1721 angefangen. 
+
+## Abschluss Reflexion
+Ich bin mit meinem Projekt zufrieden, aber nicht mit der Art, wie ich das Projekt gemacht habe. Die Arbeitspakete habe ich sehr schnell, ohne viel nachzudenken, geschrieben. So habe ich mir Aufgaben gegeben, die sehr einfach waren und mich nicht herausgefordert haben, aber ich habe auch sehr schwierige Arbeitspakete geschrieben, die ich nicht lösen konnte. Ich habe sehr unregelmässig gearbeitet. Erste paar Wochen habe ich nur am Number-Guesser gearbeitet aber dann als ich merkte, dass ich an Modulen arbeiten soll, habe ich dort weitergearbeitet.  Für einen nächsten Projekt möchte ich mir mehr Zeit nehmen, um nachzudenken, was mein nächster Schritt sein wird. Ich möchte auch mehr organisiert sein. Zum Beispiel eine Woche arbeite ich nur am Projekt, andere Woche nur an den Modulen, sodass ich nicht Projekt Arbeitspakete und Modul Arbeitspakete zusammenmische. (132 Wörter)
+
